@@ -1,0 +1,29 @@
+# Std system files
+.DS_Store
+Thumbs.db
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Binaries
+cmd/server/main
+cmd/server/server
+cmd/client/main
+cmd/client/client
+
+# Test binary, built with `go test -c`
+*.test
+
+# Dependency directories
+vendor
+
+# IDEs directories
+.vscode
+
+# Sensitive data
+.env
+.env.local
