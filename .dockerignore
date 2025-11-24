@@ -1,0 +1,10 @@
+# Std system files
+.DS_Store
+Thumbs.db
+
+# IDEs directories
+.vscode
+
+# Sensitive data
+.env
+.env.local
